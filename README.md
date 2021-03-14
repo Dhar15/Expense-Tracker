@@ -15,6 +15,9 @@ The user can also access his/her monthly expenditure for any desired month. Addi
 - ANNUAL EXPENDITURE:
 Lastly, the user can also get an access to an yearly expenditure for any desired year.
 
+- EXPENDITURE REPORT
+A complete report of all the expenditures spent by the user can be generated. Additionally, the user can wish to view expenditures related to a specific category only.
+
 ### Requirements
 Written in Python with concepts of SQL and makes use of DB Browser for SQLite, a light-weight, high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 
